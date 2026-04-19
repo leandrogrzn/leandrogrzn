@@ -1,3 +1,9 @@
+<!-- ASCII + efecto dinámico -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Leandro+Garz%C3%B3n;Software+Developer;Backend+%7C+AI+%7C+Cybersecurity" />
+</p>
+
 ```txt
  _                _                 
 | |    ___   __ _| | ___   ___  ___ 
@@ -11,13 +17,18 @@
 
 ```diff
 + Software Developer | Electronic Engineering Student
-+ Backend • AI • Cybersecurity
++ Backend • Machine Learning • Cybersecurity
 ```
 
 ---
 
-I’m an Electronic Engineering student in my final semesters, focused on building scalable software systems.
-Currently exploring **machine learning, data science, and cybersecurity**, while strengthening my backend development skills.
+## 🧠 About Me
+
+I’m an Electronic Engineering student in my final semesters, focused on building **scalable and efficient software systems**.
+
+My core strength lies in **backend development**, where I design and implement REST APIs, authentication systems, and database architectures. Alongside this, I’m actively expanding my knowledge in **machine learning, data science, and cybersecurity**, aiming to integrate intelligent and secure solutions into real-world applications.
+
+I have experience developing fullstack academic projects, working with modern technologies, and maintaining a strong **self-learning mindset**. I’m particularly interested in solving complex problems that combine **software engineering with data and intelligent systems**.
 
 ---
 
@@ -28,7 +39,6 @@ Languages: Python, JavaScript, TypeScript
 Frameworks: React, React Native, Django, NestJS
 Databases: MongoDB, PostgreSQL
 Tools: Git, Docker, Linux
-Interests: Machine Learning, Data Science, Cybersecurity
 ```
 
 ---
@@ -36,23 +46,23 @@ Interests: Machine Learning, Data Science, Cybersecurity
 ## 🚀 Projects
 
 **Teslo Shop (E-commerce Backend)**
-→ REST API with authentication (JWT) and role-based access
+→ Scalable REST API with JWT authentication and role-based access
 → Built with NestJS, PostgreSQL, Docker
 
 **Django Auth CRUD**
-→ Full authentication system with clean UI
+→ Full authentication system with structured backend and UI
 → Django + Bootstrap
 
 **Mailer App**
-→ Lightweight email automation tool
+→ Lightweight email automation system
 
 ---
 
-## 🧠 Focus Areas
+## 🔍 Current Interests
 
 ```text
-- Backend Development
-- Machine Learning (learning phase)
+- Backend Architecture & APIs
+- Machine Learning (applied focus)
 - Data Science fundamentals
 - Cybersecurity basics
 ```
