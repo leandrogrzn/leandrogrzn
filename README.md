@@ -2,9 +2,8 @@
        .--.                     leandro@github
       |o_o |                    -------------------------
       |:_/ |                    OS: Electronic Engineering Student
-      |:_/ |                    Role: Software Developer
-     //   \ \                   Focus: Backend / AI / Security
-    (|     | )
+     //   \ \                   Role: Software Developer
+    (|     | )                  Focus: Backend / AI / Security
    /'\_   _/`\
    \___)=(___/
 ```
