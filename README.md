@@ -16,7 +16,7 @@
 
 ## 🧠 About me
 
-Electronic Engineering student in my final semesters, focused on building scalable and efficient software systems. My core strength is backend development — API design, authentication systems, and database architecture. I'm actively expanding into machine learning, data science, and cybersecurity, aiming to build intelligent and secure solutions grounded in solid engineering. I learn best by building things.
+Electronic Engineering student in my final semesters, focused on building scalable and efficient software systems. My core strength is backend development API design, authentication systems, and database architecture. I'm actively expanding into machine learning, data science, and cybersecurity, aiming to build intelligent and secure solutions grounded in solid engineering. I learn best by building things.
 
 ## 🎓 Capstone project
 
