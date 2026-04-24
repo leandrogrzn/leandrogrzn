@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Leandro+Garz%C3%B3n;Software+Developer;Backend+%7C+AI+%7C+Cybersecurity" />
-</p>
-
 ```bash
         .--.                     leandro@github
        |o_o |                    -------------------------
@@ -28,6 +24,21 @@ I’m an Electronic Engineering student in my final semesters, focused on buildi
 My main strength is **backend development**, where I design APIs, authentication systems, and database structures. I’m also actively developing skills in **machine learning, data science, and cybersecurity**, with the goal of integrating intelligent and secure solutions into real-world applications.
 
 I enjoy learning by building, and I’m particularly interested in projects that combine **software engineering with data-driven and intelligent systems**.
+
+---
+
+## 🎓 Capstone Project
+
+**Development of a GUI-Based Tool for Automated Temporal Muscle Segmentation in CT Scans**
+
+→ Design and implementation of an application for **automatic segmentation of medical images**
+→ Use of deep learning models (U-Net / MedSAM) for detecting and segmenting the temporal muscle
+→ Focus on improving accuracy and usability through a graphical user in5terface
+→ Integration of image preprocessing techniques and evaluation metrics
+
+```text
+Tech (in progress): Python • Deep Learning • Medical Imaging • Computer Vision
+```
 
 ---
 
