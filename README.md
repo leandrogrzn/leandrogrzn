@@ -1,87 +1,65 @@
-```bash
-        .--.                     leandro@github
-       |o_o |                    -------------------------
-       |:_/ |                    OS: Electronic Engineering Student
-      //   \ \                   Role: Software Developer
-     (|     | )                  Focus: Backend / AI / Security
-    /'\_   _/`\                 
-    \___)=(___/                 
+```
+       .--.                     leandro@github
+      |o_o |                    -------------------------
+      |:_/ |                    OS: Electronic Engineering Student
+      |:_/ |                    Role: Software Developer
+     //   \ \                   Focus: Backend / AI / Security
+    (|     | )
+   /'\_   _/`\
+   \___)=(___/
 ```
 
 # Leandro Garzón
 
-```diff
-+ Software Developer | Electronic Engineering Student
-+ Backend • Machine Learning • Cybersecurity
-```
+![Backend](https://img.shields.io/badge/Backend-Developer-4CAF50?style=flat-square)
+![Student](https://img.shields.io/badge/Electronic-Engineering-2196F3?style=flat-square)
+![Focus](https://img.shields.io/badge/ML_%7C_Security-7C4DFF?style=flat-square)
 
----
+## 🧠 About me
 
-## 🧠 About Me
+Electronic Engineering student in my final semesters, focused on building scalable and efficient software systems. My core strength is backend development — API design, authentication systems, and database architecture. I'm actively expanding into machine learning, data science, and cybersecurity, aiming to build intelligent and secure solutions grounded in solid engineering. I learn best by building things.
 
-I’m an Electronic Engineering student in my final semesters, focused on building **scalable and efficient software systems**.
+## 🎓 Capstone project
 
-My main strength is **backend development**, where I design APIs, authentication systems, and database structures. I’m also actively developing skills in **machine learning, data science, and cybersecurity**, with the goal of integrating intelligent and secure solutions into real-world applications.
+**GUI-based tool for automated temporal muscle segmentation in CT scans**
 
-I enjoy learning by building, and I’m particularly interested in projects that combine **software engineering with data-driven and intelligent systems**.
+- Deep learning segmentation using U-Net / MedSAM architectures
+- Image preprocessing pipeline with quantitative evaluation metrics
+- Graphical interface focused on usability for clinical workflows
 
----
+`Python` `Deep Learning` `Medical Imaging` `Computer Vision`
 
-## 🎓 Capstone Project
-
-**Development of a GUI-Based Tool for Automated Temporal Muscle Segmentation in CT Scans**
-
-→ Design and implementation of an application for **automatic segmentation of medical images**
-→ Use of deep learning models (U-Net / MedSAM) for detecting and segmenting the temporal muscle
-→ Focus on improving accuracy and usability through a graphical user in5terface
-→ Integration of image preprocessing techniques and evaluation metrics
-
-```text
-Tech (in progress): Python • Deep Learning • Medical Imaging • Computer Vision
-```
-
----
-
-## ⚡ Tech Stack
+## ⚡ Tech stack
 
 ```yaml
-Languages: Python, JavaScript, TypeScript
-Frameworks: React, React Native, Django, NestJS
-Databases: MongoDB, PostgreSQL
-Tools: Git, Docker, Linux
+Languages:  Python · JavaScript · TypeScript
+Frameworks: NestJS · Django · React · React Native
+Databases:  PostgreSQL · MongoDB
+Tools:      Docker · Git · Linux
 ```
-
----
 
 ## 🚀 Projects
 
-**Teslo Shop (E-commerce Backend)**
-→ Scalable REST API with JWT authentication and role-based access
-→ NestJS, PostgreSQL, Docker
+**Teslo Shop — E-commerce backend**
+Scalable REST API with JWT authentication and role-based access control.
+`NestJS` `PostgreSQL` `Docker`
 
 **Django Auth CRUD**
-→ Authentication system with structured backend and UI
-→ Django + Bootstrap
+Full authentication system with a structured backend and Bootstrap UI.
+`Django` `Bootstrap`
 
 **Mailer App**
-→ Lightweight email automation system
+Lightweight email automation microservice.
+`Python`
 
----
+## 🔍 Current interests
 
-## 🔍 Current Interests
-
-```text
-- Backend Architecture & APIs
-- Machine Learning (applied focus)
-- Data Science fundamentals
+- Backend architecture & API design
+- Machine learning (applied focus)
+- Data science fundamentals
 - Cybersecurity basics
-```
-
----
 
 ## 📫 Contact
 
-* LinkedIn: https://www.linkedin.com/in/leandro-garzón-2b28b31b0/
-* Email: [leandrogrzn1620@gmail.com](mailto:leandrogrzn1620@gmail.com)
-
----
+- LinkedIn: [leandro-garzón](https://www.linkedin.com/in/leandro-garzón-2b28b31b0/)
+- Email: leandrogrzn1620@gmail.com
